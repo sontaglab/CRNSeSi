@@ -1,6 +1,10 @@
 # CRNSeSi
-Package for "Chemical Reaction Network SEnsitivity SIgns" as used in E.D. Sontag. A technique for determining the signs of sensitivities of steady states in chemical reaction networks. IET Systems Biology, 8:251-267, 2014. 
-CRNSeSi.zip has all files; they are also available for individual downloads.
+Package for "Chemical Reaction Network SEnsitivity SIgns" as used in 
+
+E.D. Sontag. A technique for determining the signs of sensitivities of steady states in chemical reaction networks. IET Systems Biology, 8:251-267, 2014. 
+
+CRNSeSi.zip has all files.
+
 The readme file in this depository is repeated here for convenience:
 
 CRNSENSI quick readme file
